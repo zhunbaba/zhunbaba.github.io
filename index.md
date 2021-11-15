@@ -1,12 +1,12 @@
 ## 准爸爸网
 
-You can use the [editor on GitHub](https://github.com/zhunbaba/zhunbaba.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+这里分享准爸爸们的日常
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+爸爸也怀孕
 
 ```markdown
 Syntax highlighted code block
